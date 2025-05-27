@@ -1,6 +1,6 @@
 {
   "name": "operational/sdk-php",
-  "description": "PHP SDK for the Operational API",
+  "description": "PHP SDK for the Operational API. Read more at https://operational.co/integrations/php-sdk",
   "type": "library",
   "require": {
     "php": ">=7.4",
