@@ -1,5 +1,5 @@
 {
-  "name": "operational-php",
+  "name": "operational",
   "description": "PHP SDK for the Operational API",
   "type": "library",
   "require": {
